@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #FFFFFF;
+}
+
+.bg-dark{
+  background-color: white!important;
+}
+
+.b{
+
+
+}
+
+
+
+
+.in{
+
+    background-color: #AEC938;
+    color: white;
+    padding: 2px 2px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-radius: 2px;
+    font-size: 14px;
+
+}
